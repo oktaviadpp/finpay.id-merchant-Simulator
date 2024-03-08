@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Payment code lebih dari 25 char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1638dda-bd68-4135-8a70-0f137acf6864</testCaseGuid>
+</TestCaseEntity>

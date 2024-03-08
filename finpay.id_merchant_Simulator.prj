@@ -5,10 +5,11 @@
    <tag></tag>
    <UUID>5e5a467c-5fd2-4034-a56f-d276cf887afa</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/oktaviadwiputripermatasari/Documents/Digipos/finpay.id_merchant_Simulator/finpay.id_merchant_Simulator.prj</projectFileLocation>
+   <projectFileLocation>/Users/oktaviadwiputripermatasari/Documents/Digipos/finpay.id-merchant-Simulator/finpay.id_merchant_Simulator.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
