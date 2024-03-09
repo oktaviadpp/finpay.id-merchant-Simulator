@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>15_Amount dengan kombinasi huruf</name>
+   <name>16_Amount kurang dari 10000</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a8f5e47d-f01b-410e-9ee5-92abed4c35e0</testCaseGuid>
+   <testCaseGuid>d4091cc4-9aa5-4499-bf2e-f7b32a38eb79</testCaseGuid>
 </TestCaseEntity>

@@ -38,7 +38,7 @@ WebUI.verifyElementPresent(findTestObject('20_Simulator/20_02_Sim Pay Code/textC
 
 WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputAmount'), '100.000,00')
+WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputAmount'), 'Rp100000')
 
 WebUI.takeScreenshot()
 

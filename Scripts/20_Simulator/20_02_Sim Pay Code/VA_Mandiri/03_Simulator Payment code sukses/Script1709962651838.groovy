@@ -22,7 +22,7 @@ not_run: WebUI.callTestCase(findTestCase('Login/01_successfullyLoginInternalAcco
 not_run: WebUI.callTestCase(findTestCase('20_Simulator/20_02_Sim Pay Code/02_klik menu dan sub menu Simulator Payment Code'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputPayCode'), '880270000082449')
+WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputPayCode'), '880270000081260')
 
 WebUI.takeScreenshot()
 
