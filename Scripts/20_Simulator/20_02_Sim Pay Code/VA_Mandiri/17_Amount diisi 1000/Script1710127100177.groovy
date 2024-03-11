@@ -17,12 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/01_successfullyLoginInternalAccount'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('Login/01_successfullyLoginInternalAccount'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('20_Simulator/20_02_Sim Pay Code/02_klik menu dan sub menu Simulator Payment Code'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('20_Simulator/20_02_Sim Pay Code/02_klik menu dan sub menu Simulator Payment Code'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputPayCode'), '1484200000000005')
+WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputPayCode'), '880270000081260')
 
 WebUI.takeScreenshot()
 
@@ -38,7 +38,7 @@ WebUI.verifyElementPresent(findTestObject('20_Simulator/20_02_Sim Pay Code/textC
 
 WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputAmount'), 'Rp100000')
+WebUI.setText(findTestObject('20_Simulator/20_02_Sim Pay Code/inputAmount'), '1000')
 
 WebUI.takeScreenshot()
 
@@ -51,6 +51,10 @@ WebUI.verifyElementPresent(findTestObject('20_Simulator/20_02_Sim Pay Code/title
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('20_Simulator/20_02_Sim Pay Code/buttonOKpopUp'))
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('20_Simulator/20_02_Sim Pay Code/buttonBacktoInq'))
 
 WebUI.takeScreenshot()
 

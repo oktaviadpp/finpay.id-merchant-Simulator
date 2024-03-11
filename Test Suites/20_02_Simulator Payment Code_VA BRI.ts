@@ -116,4 +116,25 @@
       <testCaseId>Test Cases/20_Simulator/20_02_Sim Pay Code/VA_BRI/15_Amount dengan kombinasi huruf</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>1891eb6e-f788-4fa5-92a6-7f55436b1a41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/20_Simulator/20_02_Sim Pay Code/VA_BRI/16_Amount kurang dari 10000</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6636ebb8-791d-4106-944b-2d10896d8060</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/20_Simulator/20_02_Sim Pay Code/VA_BRI/17_Amount diisi 1000</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dff03931-d6b8-4d8b-b8e1-59cb562a6204</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/20_Simulator/20_02_Sim Pay Code/VA_BRI/18_Amount kurang dari 1000</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
