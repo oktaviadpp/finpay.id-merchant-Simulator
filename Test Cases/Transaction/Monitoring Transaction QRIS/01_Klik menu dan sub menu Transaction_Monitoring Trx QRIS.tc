@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Klik menu dan sub menu Transaction_Monitoring Trx QRIS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>317a257b-eb5d-4fde-a17d-ffac2d8fd0e4</testCaseGuid>
+</TestCaseEntity>

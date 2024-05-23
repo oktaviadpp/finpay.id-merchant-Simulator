@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10_Filter RRN dengan INVALID input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>305bbd95-528f-4311-9117-e30e710d39aa</testCaseGuid>
+</TestCaseEntity>

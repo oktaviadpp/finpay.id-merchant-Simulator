@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12_Filter RRN lebih dari 50 char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60c775cf-96f3-40cd-86bf-5d1493ff5686</testCaseGuid>
+</TestCaseEntity>
