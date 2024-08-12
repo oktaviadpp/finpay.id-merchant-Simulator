@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Filter date dengan valid input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e05c389c-bff4-49bf-ae47-2fa9ea67cfb9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce211798-96bd-42cf-99c4-30f8a679dfcd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kirim settlement data Sukses'</defaultValue>
+      <description></description>
+      <id>ce211798-96bd-42cf-99c4-30f8a679dfcd</id>
+      <masked>false</masked>
+      <name>succes</name>
+   </variable>
+</TestCaseEntity>

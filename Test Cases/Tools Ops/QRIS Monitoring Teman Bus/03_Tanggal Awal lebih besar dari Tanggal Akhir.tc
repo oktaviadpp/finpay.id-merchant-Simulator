@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Tanggal Awal lebih besar dari Tanggal Akhir</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d434f228-80a6-4d71-9bf7-2504935922b7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e62ba1f6-32ab-49b9-8ef4-25bcfeb80c1a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Invalid Data Type : The start date must be a date before or equal to end date.,The end date must be a date after or equal to start date.'</defaultValue>
+      <description></description>
+      <id>e62ba1f6-32ab-49b9-8ef4-25bcfeb80c1a</id>
+      <masked>false</masked>
+      <name>rc_02</name>
+   </variable>
+</TestCaseEntity>

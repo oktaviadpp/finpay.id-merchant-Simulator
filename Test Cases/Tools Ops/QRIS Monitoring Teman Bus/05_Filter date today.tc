@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_Filter date today</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb4e24f9-c32a-40f3-9672-e6395e97c772</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61346067-c300-436b-a62f-561d7ea58890</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kirim settlement data Sukses'</defaultValue>
+      <description></description>
+      <id>61346067-c300-436b-a62f-561d7ea58890</id>
+      <masked>false</masked>
+      <name>succes</name>
+   </variable>
+</TestCaseEntity>

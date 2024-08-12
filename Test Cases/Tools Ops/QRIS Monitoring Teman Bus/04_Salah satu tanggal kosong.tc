@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_Salah satu tanggal kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>796d5853-e310-4132-b740-aa221dff3b42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26f7f12c-5aaa-483e-b01e-685f99293cf0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Invalid Data Type : Start Date or End Date is empty'</defaultValue>
+      <description></description>
+      <id>26f7f12c-5aaa-483e-b01e-685f99293cf0</id>
+      <masked>false</masked>
+      <name>invalid_data</name>
+   </variable>
+</TestCaseEntity>

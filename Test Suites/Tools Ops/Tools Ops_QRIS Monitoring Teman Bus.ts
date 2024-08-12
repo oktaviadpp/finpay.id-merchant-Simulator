@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Tools Ops_QRIS Monitoring Teman Bus</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c7f4a430-fd39-4b43-9413-c7807e0e4d99</testSuiteGuid>
+   <testCaseLink>
+      <guid>25b1cb08-dff5-4b41-a4da-dcccb07fdf22</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/01_Klik menu dan sub menu Tools Ops_Qris Monitoring Teman Bus</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3c42ec34-e533-49a4-ab54-d4efc8de921a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/02_Filter date dengan valid input</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ce211798-96bd-42cf-99c4-30f8a679dfcd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a19337d3-0419-47e4-a62e-bf720dfdb8ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/03_Tanggal Awal lebih besar dari Tanggal Akhir</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e62ba1f6-32ab-49b9-8ef4-25bcfeb80c1a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76ad73b7-e7b7-45cc-b177-bf5945d77b4e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/04_Salah satu tanggal kosong</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>26f7f12c-5aaa-483e-b01e-685f99293cf0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>45d69287-c7d9-41d7-aafd-d743a26e6b07</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/05_Filter date today</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>61346067-c300-436b-a62f-561d7ea58890</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9fd7260e-9259-4654-b87c-4bc07480ce4b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/06_Filter date This mont</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7736c8d-c5be-4d89-a001-daa22007ec95</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>01fa9394-f348-48a8-9576-1e6175bac935</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tools Ops/QRIS Monitoring Teman Bus/07_Filter date Last Month</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>af32f1da-e93e-465d-8991-394933dfea4c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Filter search merchant dengan VALID input</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6171a1b-b997-4f78-bf61-a9166a31bd7b</testCaseGuid>
+</TestCaseEntity>
