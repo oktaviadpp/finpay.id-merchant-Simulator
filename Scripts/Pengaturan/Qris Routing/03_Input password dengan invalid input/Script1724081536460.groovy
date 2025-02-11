@@ -40,3 +40,5 @@ WebUI.click(findTestObject('Pengaturan/Qris Routing/button_PopUpSelesai'))
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.refresh()
+

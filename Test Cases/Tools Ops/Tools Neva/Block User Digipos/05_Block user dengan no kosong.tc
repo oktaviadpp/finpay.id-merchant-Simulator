@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_Block user dengan no kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa49d46a-23c8-4b72-96da-36b88d717edc</testCaseGuid>
+</TestCaseEntity>

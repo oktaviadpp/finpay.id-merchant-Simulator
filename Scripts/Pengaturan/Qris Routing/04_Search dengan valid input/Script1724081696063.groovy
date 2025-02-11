@@ -23,3 +23,5 @@ WebUI.setText(findTestObject('Pengaturan/Qris Routing/input_Search'), 'ALTO')
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.refresh()
+

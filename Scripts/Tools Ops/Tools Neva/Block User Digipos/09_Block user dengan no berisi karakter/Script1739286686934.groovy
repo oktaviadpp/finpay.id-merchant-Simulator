@@ -17,12 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-not_run: WebUI.callTestCase(findTestCase('Pengaturan/Qris Routing/00_Klik menu dan sub menu Pengaturan_Qris Routing'), [:], 
-    FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('Tools Ops/Tools Neva/Block User Digipos/00_Klik menu dan sub menu Tools Ops_Block User Digipos'), 
+    [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Pengaturan/Qris Routing/input_Search'), 'ALTOS')
+WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_No Hp'), '+628113929191')
 
-WebUI.takeFullPageScreenshot()
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Tools Ops/Tools Neva/button_Search'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
 
 WebUI.refresh()
 

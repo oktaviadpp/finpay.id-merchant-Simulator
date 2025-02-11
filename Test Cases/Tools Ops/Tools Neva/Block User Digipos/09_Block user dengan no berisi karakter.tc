@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09_Block user dengan no berisi karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7096832-e2bf-4474-954a-d3c7b87c082e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Block user dengan no alphanumerik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee58c564-c1b4-4ce4-ab1e-b104b4862ade</testCaseGuid>
+</TestCaseEntity>
