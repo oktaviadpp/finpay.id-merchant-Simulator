@@ -20,23 +20,11 @@ import org.openqa.selenium.Keys as Keys
 not_run: WebUI.callTestCase(findTestCase('Tools Ops/Tools Neva/Block User Digipos/00_Klik menu dan sub menu Tools Ops_Block User Digipos'), 
     [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_No Hp'), '08113929191')
+WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_No Hp'), '\' OR 1=1; DROP TABLE users; --')
 
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Tools Ops/Tools Neva/button_Search'))
-
-WebUI.delay(3)
-
-WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_alasan'), 'Block user')
-
-WebUI.takeScreenshot()
-
-WebUI.click(findTestObject('Tools Ops/Tools Neva/button_block'))
-
-WebUI.waitForElementPresent(findTestObject('Tools Ops/Tools Neva/button_Ya Konfirmasi block unblock'), 5)
-
-WebUI.click(findTestObject('Tools Ops/Tools Neva/button_Ya Konfirmasi block unblock'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(3)
 

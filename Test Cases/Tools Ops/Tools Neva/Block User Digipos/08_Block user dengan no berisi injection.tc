@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_Block user dengan no berisi injection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a89379a-cdc5-4850-883d-786b9807328c</testCaseGuid>
+</TestCaseEntity>

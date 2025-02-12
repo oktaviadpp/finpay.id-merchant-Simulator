@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Tools Ops/Tools Neva/button_Search'))
 
 WebUI.delay(3)
 
-WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_alasan'), 'block user')
+WebUI.setText(findTestObject('Tools Ops/Tools Neva/input_alasan'), 'Unblock user')
 
 WebUI.takeScreenshot()
 
